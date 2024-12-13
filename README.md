@@ -30,8 +30,8 @@ This tutorial explores the critical impact of **depth** (number of layers) and *
 - How to monitor and mitigate issues like overfitting using visualizations.
 
 ## **Future Scope**
-- Explore advanced architectures like ResNets and EfficientNet.
 - Implement regularization techniques like Dropout and early stopping.
+- Using the data augmentation techniques.
 - Scale depth, width, and input size together for optimal performance.
 
 ## **Usage**
