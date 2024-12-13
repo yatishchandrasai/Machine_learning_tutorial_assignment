@@ -37,4 +37,4 @@ This tutorial explores the critical impact of **depth** (number of layers) and *
 ## **Usage**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone [https://github.com/yatishchandrasai/Machine_learning_tutorial_assignment.git]
