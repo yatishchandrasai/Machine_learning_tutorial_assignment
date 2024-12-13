@@ -38,3 +38,5 @@ This tutorial explores the critical impact of **depth** (number of layers) and *
 1. Clone the repository:
    ```bash
    git clone [https://github.com/yatishchandrasai/Machine_learning_tutorial_assignment.git]
+
+Trained models access link [https://drive.google.com/drive/folders/190bjcF3UMurBSV9MRN-ffFQ0vxfyaRBI?usp=sharing]
